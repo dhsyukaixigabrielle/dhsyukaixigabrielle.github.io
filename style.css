@@ -14,4 +14,10 @@ body {
   background-image: src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvlDPDIZYbzOdwG-qp1dfrxcp0f_1eZ4jKOk96MLUTPJ00b_ge";
   background-color: #33ccff;
 }
-#mypic 
+#mypic {
+  height: 250px;
+  width: 150%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
